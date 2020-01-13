@@ -1,3 +1,3 @@
 # Avaj-launcher
 
-Create a little avia simutation by using provided UML-Diagram.
+Create a little flight simutator by using provided UML-Diagram.
